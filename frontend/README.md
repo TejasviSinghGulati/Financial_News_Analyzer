@@ -5,7 +5,7 @@ A sophisticated, full-stack web application featuring an AI-powered financial an
 
 The backend is built with **Flask** and **LangChain**, using **Google's Gemini Pro** for reasoning and the **Tavily API** for up-to-date web searches. The frontend is a sleek, responsive chat interface built with **React** and **Vite**.
 
-![Financial Analyst AI Chatbot](https://placehold.co/800x400/212121/e3e3e3?text=Financial+Analyst+AI)
+![Financial Analyst AI Chatbot
 
 ---
 
