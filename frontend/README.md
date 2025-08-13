@@ -20,8 +20,8 @@ The backend is built with **Flask** and **LangChain**, using **Google's Gemini P
 
 | Category  | Technology                                                                                                                              |
 | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Backend** |    |React, Vite, HTML/CSS|
-| **Frontend**|    |Python, Flask, python-dotenv, requests, flask_cors|
+| **Backend** |    |React, Vite, HTML/CSS                                             |
+| **Frontend**|    |Python, Flask, python-dotenv, requests, flask_cors                |
 | **AI & Data** |   |LangChain, Google Gemini, Tavily Search API, Regular Expressions |
 
 -----
